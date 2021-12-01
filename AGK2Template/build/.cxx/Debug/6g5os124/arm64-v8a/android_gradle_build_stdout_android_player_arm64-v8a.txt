@@ -1,1 +1,2 @@
-make: Nothing to be done for 'android_player'.
+[arm64-v8a] Compile++      : android_player <= template.cpp
+[arm64-v8a] SharedLibrary  : libandroid_player.so
