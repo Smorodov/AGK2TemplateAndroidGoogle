@@ -1,0 +1,148 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\.cxx\\Debug\\6g5os124\\arm64-v8a",
+  "soFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\cxx\\Debug\\6g5os124\\obj\\local\\arm64-v8a",
+  "soRepublishFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a",
+  "abiPlatformVersion": 16,
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\cxx\\Debug\\6g5os124\\obj\\local",
+    "soRepublishFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "cxxBuildFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\.cxx\\Debug\\6g5os124",
+    "intermediatesFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\cxx\\Debug\\6g5os124",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\.cxx",
+      "intermediatesBaseFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates",
+      "intermediatesFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\cxx",
+      "gradleModulePathName": ":AGK2Template",
+      "moduleRootFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template",
+      "moduleBuildFile": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build.gradle",
+      "makeFile": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "C:\\Users\\Andrey\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "C:\\Users\\Andrey\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "C:\\Users\\Andrey\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\Andrey\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\Andrey\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\Andrey\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google",
+        "sdkFolder": "C:\\Users\\Andrey\\AppData\\Local\\Android\\Sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "c++_static",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\.cxx\\Debug\\6g5os124\\prefab\\arm64-v8a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "6g5os124d3r3e4n6f1h3z6w6y695g1q6c2f4e6u2qb2z6o5m282i5w9w408",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003dZ:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\jni\\Android.mk",
+    "NDK_APPLICATION_MK\u003dZ:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\jni\\Application.mk",
+    "APP_ABI\u003darm64-v8a",
+    "NDK_ALL_ABIS\u003darm64-v8a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-16",
+    "NDK_OUT\u003dZ:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\cxx\\Debug\\6g5os124/obj",
+    "NDK_LIBS_OUT\u003dZ:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\cxx\\Debug\\6g5os124/lib",
+    "APP_CPPFLAGS+\u003d"
+  ]
+}

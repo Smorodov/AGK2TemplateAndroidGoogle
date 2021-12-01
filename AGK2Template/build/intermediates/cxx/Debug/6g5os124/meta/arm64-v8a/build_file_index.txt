@@ -1,0 +1,2 @@
+Z:\AndroidAGK2\Tier2\apps\template_android_google\AGK2Template\src\main\jni\Android.mk
+Z:\AndroidAGK2\Tier2\apps\template_android_google\AGK2Template\src\main\jni\Application.mk

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./AGK2Template/libs/YouTubeAndroidPlayerAPI.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AGK2Template/libs/YouTubeAndroidPlayerApi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

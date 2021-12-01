@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.snapchat.kit.sdk:core:1.4.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a9401b6d93013964cbbfeb8b294b028a/transformed/jetified-core-1.4.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9401b6d93013964cbbfeb8b294b028a/transformed/jetified-core-1.4.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9401b6d93013964cbbfeb8b294b028a/transformed/jetified-core-1.4.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

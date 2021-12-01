@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_white.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-xxxhdpi\\icon_white.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_icon_white.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-ldpi\\icon_white.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_white.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-xhdpi\\icon_white.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_white.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-hdpi\\icon_white.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\xml_provider_paths.xml.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_white.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-xxhdpi\\icon_white.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_white.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-mdpi\\icon_white.png"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\layout_facebookmain.xml.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\layout\\facebookmain.xml"
+    },
+    {
+        "merged": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

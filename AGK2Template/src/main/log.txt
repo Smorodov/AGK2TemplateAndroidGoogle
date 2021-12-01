@@ -1,0 +1,7 @@
+jni/Core.cpp:680:22: warning: cast to 'void *' from smaller integer type 'int' [-Wint-to-void-pointer-cast]
+                agk::JoystickAxis( (void*)id, stick, axis, value );
+                                   ^
+jni/Core.cpp:685:24: warning: cast to 'void *' from smaller integer type 'int' [-Wint-to-void-pointer-cast]
+                agk::JoystickButton( (void*)id, button, state );
+                                     ^
+2 warnings generated.

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v20\\values-v20.xml",
+            "map": [
+                {
+                    "source": "Z:\\AndroidAGK2\\Tier2\\apps\\template_android_google\\AGK2Template\\src\\main\\res\\values-v20\\styles.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "2,2",
+                        "startOffsets": "114,409",
+                        "endLines": "7,17",
+                        "endColumns": "10,10",
+                        "endOffsets": "401,896"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,342",
+                        "endLines": "7,16",
+                        "endColumns": "10,10",
+                        "endOffsets": "337,821"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+com/mycompany/mytemplate/BuildConfig.java
+ com.mycompany.mytemplate.BuildConfig
+com/thegamecreators/agk_player/AGKHelper.java
+ com.thegamecreators.agk_player.AGKCamera
+ com.thegamecreators.agk_player.AGKHelper
+ com.thegamecreators.agk_player.AGKHelper$1
+ com.thegamecreators.agk_player.AGKHelper$10
+ com.thegamecreators.agk_player.AGKHelper$11
+ com.thegamecreators.agk_player.AGKHelper$12
+ com.thegamecreators.agk_player.AGKHelper$13
+ com.thegamecreators.agk_player.AGKHelper$14
+ com.thegamecreators.agk_player.AGKHelper$15
+ com.thegamecreators.agk_player.AGKHelper$16
+ com.thegamecreators.agk_player.AGKHelper$17
+ com.thegamecreators.agk_player.AGKHelper$18
+ com.thegamecreators.agk_player.AGKHelper$18$1
+ com.thegamecreators.agk_player.AGKHelper$19
+ com.thegamecreators.agk_player.AGKHelper$2
+ com.thegamecreators.agk_player.AGKHelper$2$1
+ com.thegamecreators.agk_player.AGKHelper$20
+ com.thegamecreators.agk_player.AGKHelper$21
+ com.thegamecreators.agk_player.AGKHelper$21$1
+ com.thegamecreators.agk_player.AGKHelper$22
+ com.thegamecreators.agk_player.AGKHelper$23
+ com.thegamecreators.agk_player.AGKHelper$24
+ com.thegamecreators.agk_player.AGKHelper$3
+ com.thegamecreators.agk_player.AGKHelper$4
+ com.thegamecreators.agk_player.AGKHelper$4$1
+ com.thegamecreators.agk_player.AGKHelper$5
+ com.thegamecreators.agk_player.AGKHelper$6
+ com.thegamecreators.agk_player.AGKHelper$7
+ com.thegamecreators.agk_player.AGKHelper$8
+ com.thegamecreators.agk_player.AGKHelper$9
+ com.thegamecreators.agk_player.AGKHelper$9$1
+ com.thegamecreators.agk_player.AGKHelper$9$1$1
+ com.thegamecreators.agk_player.AGKHelper$9$2
+ com.thegamecreators.agk_player.AGKHelper$IAPProduct
+ com.thegamecreators.agk_player.AGKHelper$IAPProductState
+ com.thegamecreators.agk_player.AGKLocationListener
+ com.thegamecreators.agk_player.AGKSpeechListener
+ com.thegamecreators.agk_player.AGKSurfaceView
+ com.thegamecreators.agk_player.MyTextActionWatcher
+ com.thegamecreators.agk_player.MyTextWatcher
+ com.thegamecreators.agk_player.RunnableAd
+ com.thegamecreators.agk_player.RunnableAd$1
+ com.thegamecreators.agk_player.RunnableAd$2
+ com.thegamecreators.agk_player.RunnableAd$3
+ com.thegamecreators.agk_player.RunnableAd$4
+ com.thegamecreators.agk_player.RunnableAd$5
+ com.thegamecreators.agk_player.RunnableChartboost
+ com.thegamecreators.agk_player.RunnableChartboost$1
+ com.thegamecreators.agk_player.RunnableKeyboard
+ com.thegamecreators.agk_player.RunnableMessage
+ com.thegamecreators.agk_player.RunnableMessage$1
+ com.thegamecreators.agk_player.RunnableVideo
+com/thegamecreators/agk_player/NotificationService.java
+ com.thegamecreators.agk_player.NotificationService
+com/thegamecreators/agk_player/NotificationAlarmReceiver.java
+ com.thegamecreators.agk_player.NotificationAlarmReceiver
+com/thegamecreators/agk_player/AGKActivity.java
+ com.thegamecreators.agk_player.AGKActivity
